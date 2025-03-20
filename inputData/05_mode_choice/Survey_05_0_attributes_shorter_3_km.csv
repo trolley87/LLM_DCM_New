@@ -1,0 +1,201 @@
+ID,distance,school_location,same_shore,cb_location,grade,age,gender,car_availability,season,effort,original_choice
+241,0.32,non Same Shore,same shore,not close,10.0,16.0,male,No car,summer,25.77,walk
+1113,0.46,non Same Shore,same shore,not close,12.0,19.0,female,No car,summer,46.56,walk
+319,1.4,non Same Shore,same shore,not close,8.0,14.0,female,No car,summer,80.99,transit
+62,2.14,non Same Shore,same shore,not close,12.0,18.0,male,No car,summer,626.76,bike
+1168,2.27,non Same Shore,same shore,not close,7.0,13.0,female,No car,summer,213.48,transit
+1737,0.71,non Same Shore,same shore,not close,10.0,17.0,male,No car,summer,69.9,walk
+520,2.41,non Same Shore,same shore,not close,9.0,15.0,female,No car,summer,112.45,transit
+575,2.3,non Same Shore,same shore,not close,12.0,17.0,female,No car,summer,627.87,transit
+853,1.81,non Same Shore,same shore,not close,6.0,12.0,male,No car,summer,30.07,bike
+732,2.7,non Same Shore,same shore,not close,12.0,18.0,male,No car,summer,128.76,bike
+1153,0.5,non Same Shore,same shore,not close,12.0,17.0,female,No car,summer,92.6,walk
+940,1.93,non Same Shore,same shore,not close,9.0,14.0,female,No car,summer,275.25,bike
+1563,2.98,non Same Shore,same shore,not close,12.0,18.0,male,A car,summer,43.32,bike
+1269,1.15,non Same Shore,same shore,not close,12.0,18.0,female,No car,summer,68.95,walk
+446,2.44,non Same Shore,same shore,not close,7.0,13.0,female,No car,summer,278.01,transit
+132,1.79,non Same Shore,same shore,not close,9.0,15.0,male,No car,summer,541.31,walk
+1319,1.97,non Same Shore,same shore,not close,9.0,16.0,male,No car,summer,30.7,bike
+1527,2.82,non Same Shore,same shore,not close,6.0,12.0,male,No car,summer,45.23,transit
+584,2.06,non Same Shore,same shore,not close,11.0,18.0,female,No car,summer,221.41,transit
+1114,0.67,non Same Shore,same shore,not close,12.0,19.0,female,No car,summer,50.03,walk
+1802,2.06,Same Shore,same shore,close,8.0,13.0,female,No car,summer,165.47,transit
+1430,0.75,non Same Shore,same shore,not close,12.0,19.0,female,No car,summer,63.66,walk
+693,2.55,non Same Shore,same shore,not close,5.0,11.0,male,No car,summer,96.63,transit
+1216,1.81,non Same Shore,same shore,not close,9.0,15.0,female,No car,summer,28.57,transit
+1107,0.71,non Same Shore,same shore,not close,6.0,12.0,female,No car,summer,27.55,walk
+785,0.77,non Same Shore,same shore,not close,5.0,11.0,male,No car,summer,61.95,walk
+1689,2.62,non Same Shore,same shore,not close,10.0,15.0,female,No car,summer,85.88,transit
+152,2.75,non Same Shore,same shore,not close,8.0,13.0,female,No car,summer,227.35,transit
+562,1.57,non Same Shore,same shore,not close,7.0,13.0,male,No car,summer,118.97,walk
+1037,2.9,non Same Shore,same shore,not close,5.0,10.0,female,No car,summer,96.31,transit
+297,1.46,non Same Shore,same shore,not close,12.0,18.0,female,No car,summer,303.55,transit
+350,2.25,non Same Shore,same shore,not close,6.0,11.0,female,No car,summer,222.81,transit
+888,0.91,non Same Shore,same shore,not close,7.0,13.0,male,No car,summer,58.59,walk
+1805,2.14,Same Shore,same shore,close,8.0,16.0,male,No car,summer,344.46,transit
+1761,0.65,non Same Shore,same shore,not close,6.0,11.0,male,No car,summer,25.49,walk
+192,1.04,non Same Shore,same shore,not close,5.0,11.0,female,No car,summer,136.02,walk
+795,0.34,non Same Shore,same shore,not close,6.0,12.0,male,No car,summer,71.95,walk
+949,1.74,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,282.31,bike
+914,1.68,non Same Shore,same shore,not close,8.0,14.0,male,No car,summer,493.39,bike
+103,0.41,non Same Shore,same shore,not close,10.0,16.0,male,No car,summer,34.58,walk
+943,2.66,non Same Shore,same shore,not close,11.0,18.0,female,No car,summer,560.18,transit
+1185,1.48,non Same Shore,same shore,not close,8.0,14.0,female,No car,summer,70.46,bike
+1180,2.05,non Same Shore,same shore,not close,10.0,16.0,female,No car,summer,81.49,transit
+338,1.25,non Same Shore,same shore,not close,6.0,12.0,female,No car,summer,199.71,bike
+1350,1.57,non Same Shore,same shore,not close,11.0,16.0,female,No car,summer,15.26,bike
+1229,0.71,non Same Shore,same shore,not close,9.0,14.0,female,No car,summer,61.96,walk
+798,0.86,non Same Shore,same shore,not close,5.0,11.0,male,No car,summer,52.87,walk
+885,1.46,non Same Shore,same shore,not close,11.0,17.0,male,A car,summer,61.76,bike
+1752,1.29,non Same Shore,same shore,not close,10.0,16.0,female,No car,summer,57.84,bike
+504,1.17,non Same Shore,same shore,not close,9.0,15.0,female,No car,summer,104.19,bike
+567,1.52,non Same Shore,same shore,not close,7.0,13.0,male,No car,summer,319.36,walk
+89,2.03,non Same Shore,different shores,close,11.0,17.0,male,No car,summer,63.64,bike
+1605,0.82,non Same Shore,same shore,not close,8.0,14.0,male,No car,summer,52.17,bike
+188,2.84,non Same Shore,same shore,not close,5.0,11.0,female,No car,summer,558.48,transit
+1826,0.75,Same Shore,same shore,close,8.0,14.0,male,No car,summer,109.93,walk
+1961,2.13,Same Shore,different shores,not close,12.0,17.0,female,No car,summer,59.65,transit
+1936,1.72,Same Shore,different shores,not close,10.0,16.0,female,No car,summer,122.48,transit
+1784,0.63,Same Shore,same shore,close,8.0,14.0,male,No car,summer,20.78,walk
+21,2.63,non Same Shore,same shore,not close,9.0,15.0,female,No car,summer,675.65,transit
+863,2.15,non Same Shore,same shore,not close,7.0,13.0,male,No car,summer,609.84,transit
+894,1.89,non Same Shore,same shore,not close,12.0,18.0,male,No car,summer,270.93,bike
+1148,0.52,non Same Shore,same shore,not close,10.0,15.0,female,No car,summer,44.6,walk
+116,2.49,non Same Shore,same shore,not close,10.0,16.0,female,No car,summer,524.9,transit
+2072,0.63,Same Shore,same shore,close,6.0,11.0,female,No car,summer,22.72,walk
+1111,0.48,non Same Shore,same shore,not close,7.0,13.0,female,No car,summer,48.28,walk
+458,2.19,non Same Shore,different shores,close,8.0,14.0,male,No car,summer,51.95,bike
+659,1.84,non Same Shore,same shore,not close,12.0,17.0,male,No car,summer,347.51,walk
+736,2.25,non Same Shore,same shore,not close,9.0,15.0,male,No car,summer,89.17,bike
+608,1.46,non Same Shore,same shore,not close,11.0,18.0,female,No car,summer,185.37,transit
+792,0.71,non Same Shore,same shore,not close,10.0,16.0,male,No car,summer,35.3,walk
+902,1.22,non Same Shore,same shore,not close,9.0,14.0,male,No car,summer,67.43,bike
+585,1.51,non Same Shore,same shore,not close,11.0,16.0,female,No car,summer,235.46,transit
+244,1.24,non Same Shore,same shore,not close,10.0,15.0,female,No car,summer,194.3,bike
+1587,1.15,non Same Shore,same shore,not close,11.0,16.0,male,No car,summer,39.75,bike
+1267,0.86,non Same Shore,same shore,not close,8.0,14.0,female,No car,summer,57.66,bike
+555,2.71,non Same Shore,same shore,not close,9.0,15.0,male,No car,summer,752.57,transit
+1701,0.65,non Same Shore,same shore,not close,10.0,17.0,male,No car,summer,31.87,walk
+247,2.92,non Same Shore,different shores,close,10.0,16.0,female,No car,summer,66.6,transit
+2047,1.18,Same Shore,same shore,close,6.0,12.0,female,No car,summer,10.17,bike
+2012,2.35,Same Shore,same shore,close,7.0,13.0,female,No car,summer,307.19,transit
+1211,1.45,non Same Shore,same shore,not close,7.0,13.0,female,No car,summer,123.08,bike
+1753,0.58,non Same Shore,same shore,not close,6.0,11.0,male,No car,summer,66.3,walk
+154,2.04,non Same Shore,same shore,not close,5.0,11.0,male,No car,summer,571.71,walk
+1510,0.82,non Same Shore,same shore,not close,10.0,16.0,female,No car,summer,52.17,bike
+547,1.72,non Same Shore,same shore,not close,10.0,16.0,male,No car,summer,231.56,bike
+177,0.49,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,92.21,walk
+553,2.28,non Same Shore,same shore,not close,9.0,16.0,female,No car,summer,4.04,bike
+1540,2.98,non Same Shore,same shore,not close,10.0,16.0,female,A car,summer,41.35,car
+807,0.86,non Same Shore,same shore,not close,5.0,10.0,male,No car,summer,51.25,walk
+168,1.52,non Same Shore,same shore,not close,11.0,17.0,female,A car,summer,217.96,car
+1435,1.31,non Same Shore,same shore,not close,12.0,20.0,male,No car,summer,21.04,bike
+1382,0.71,non Same Shore,same shore,not close,11.0,16.0,male,No car,summer,3.42,bike
+56,1.34,non Same Shore,same shore,not close,12.0,18.0,female,No car,summer,197.78,transit
+271,2.61,non Same Shore,same shore,not close,7.0,13.0,female,No car,summer,73.51,transit
+1179,2.05,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,81.85,transit
+95,2.4,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,451.36,bike
+49,1.65,non Same Shore,same shore,not close,6.0,13.0,male,No car,summer,151.5,bike
+1096,0.77,non Same Shore,same shore,not close,5.0,11.0,female,No car,summer,62.03,walk
+1234,1.86,non Same Shore,same shore,not close,12.0,17.0,female,No car,summer,129.55,bike
+1129,2.28,non Same Shore,same shore,not close,12.0,17.0,female,No car,summer,744.32,bike
+1118,1.16,non Same Shore,same shore,not close,8.0,14.0,female,No car,summer,70.8,bike
+1086,0.26,non Same Shore,same shore,not close,10.0,16.0,female,No car,summer,104.19,walk
+304,2.53,non Same Shore,same shore,not close,8.0,14.0,male,No car,summer,784.57,bike
+12,2.13,non Same Shore,same shore,not close,9.0,14.0,male,No car,summer,152.23,bike
+497,2.83,non Same Shore,same shore,not close,10.0,16.0,female,No car,summer,553.92,bike
+1042,2.25,non Same Shore,same shore,not close,10.0,16.0,female,No car,summer,83.85,bike
+523,1.16,non Same Shore,same shore,not close,9.0,14.0,male,No car,summer,144.81,bike
+532,2.25,non Same Shore,same shore,not close,7.0,13.0,female,No car,summer,251.78,transit
+1437,1.7,non Same Shore,same shore,not close,12.0,18.0,female,No car,summer,81.07,bike
+1572,0.35,non Same Shore,same shore,not close,9.0,15.0,female,No car,summer,66.74,bike
+403,0.65,non Same Shore,same shore,not close,8.0,14.0,female,No car,summer,2.33,walk
+357,1.26,non Same Shore,same shore,not close,12.0,18.0,male,No car,summer,203.08,bike
+814,0.14,non Same Shore,same shore,not close,8.0,14.0,male,No car,summer,41.97,walk
+1698,2.15,non Same Shore,same shore,not close,10.0,15.0,male,No car,summer,78.41,transit
+1718,2.95,non Same Shore,same shore,not close,9.0,15.0,female,No car,summer,42.33,transit
+2001,0.26,Same Shore,same shore,close,7.0,12.0,female,No car,summer,85.22,walk
+761,0.5,non Same Shore,same shore,not close,7.0,13.0,male,No car,summer,89.08,walk
+108,1.79,non Same Shore,same shore,not close,10.0,16.0,male,No car,summer,568.86,bike
+565,1.02,non Same Shore,same shore,not close,7.0,12.0,male,No car,summer,96.47,bike
+824,1.55,non Same Shore,same shore,not close,8.0,14.0,male,No car,summer,47.52,transit
+796,0.5,non Same Shore,same shore,not close,5.0,11.0,male,No car,summer,83.99,walk
+175,1.62,non Same Shore,same shore,not close,11.0,17.0,male,No car,summer,248.16,bike
+597,2.44,non Same Shore,same shore,not close,12.0,17.0,female,No car,summer,178.46,transit
+806,1.05,non Same Shore,same shore,not close,5.0,10.0,male,No car,summer,36.17,walk
+764,0.26,non Same Shore,same shore,not close,6.0,12.0,male,No car,summer,93.68,walk
+186,2.67,non Same Shore,same shore,not close,5.0,11.0,female,No car,summer,448.57,transit
+285,1.13,non Same Shore,same shore,not close,10.0,15.0,male,No car,summer,286.15,bike
+77,1.06,non Same Shore,same shore,not close,7.0,13.0,male,No car,summer,79.05,walk
+337,0.32,non Same Shore,same shore,not close,6.0,12.0,male,No car,summer,20.77,walk
+409,1.72,non Same Shore,same shore,not close,8.0,14.0,male,No car,summer,207.29,transit
+989,2.55,non Same Shore,same shore,not close,8.0,14.0,female,No car,summer,130.25,bike
+331,2.28,non Same Shore,same shore,not close,6.0,11.0,female,No car,summer,7.32,transit
+1198,2.59,non Same Shore,same shore,not close,5.0,12.0,female,No car,summer,234.14,bike
+1217,1.08,non Same Shore,same shore,not close,8.0,13.0,female,No car,summer,22.97,walk
+111,0.1,non Same Shore,same shore,not close,10.0,16.0,female,A car,summer,57.19,walk
+112,2.3,non Same Shore,same shore,not close,10.0,16.0,female,No car,summer,622.8,transit
+1695,2.95,non Same Shore,same shore,not close,10.0,15.0,female,No car,summer,42.33,transit
+859,2.78,non Same Shore,same shore,not close,8.0,14.0,male,No car,summer,737.44,bike
+365,1.26,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,173.85,bike
+1489,0.34,non Same Shore,same shore,not close,12.0,18.0,female,No car,summer,38.34,walk
+1500,0.55,non Same Shore,same shore,not close,10.0,16.0,male,No car,summer,45.97,walk
+1135,0.14,non Same Shore,same shore,not close,10.0,16.0,female,No car,summer,41.97,walk
+629,0.81,non Same Shore,same shore,not close,10.0,16.0,male,No car,summer,10.05,walk
+1548,0.72,non Same Shore,same shore,not close,12.0,18.0,male,No car,summer,50.47,walk
+1087,0.14,non Same Shore,same shore,not close,9.0,15.0,female,No car,summer,41.84,walk
+953,1.88,non Same Shore,same shore,not close,12.0,18.0,female,No car,summer,329.43,bike
+1581,2.8,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,43.02,transit
+1376,1.2,non Same Shore,same shore,not close,11.0,17.0,male,No car,summer,24.75,bike
+1957,1.72,Same Shore,different shores,not close,12.0,18.0,female,No car,summer,123.33,transit
+1249,0.76,non Same Shore,same shore,not close,10.0,17.0,female,No car,summer,61.06,walk
+551,0.65,non Same Shore,same shore,not close,9.0,15.0,female,No car,summer,1.71,walk
+1200,2.42,non Same Shore,same shore,not close,10.0,18.0,female,No car,summer,80.03,transit
+760,0.13,non Same Shore,same shore,not close,12.0,18.0,male,A car,summer,49.06,walk
+10,0.41,non Same Shore,same shore,not close,9.0,15.0,male,No car,summer,32.91,walk
+786,0.59,non Same Shore,same shore,not close,8.0,14.0,male,No car,summer,51.73,walk
+939,1.93,non Same Shore,same shore,not close,6.0,12.0,female,No car,summer,249.88,bike
+1297,2.44,non Same Shore,same shore,not close,10.0,16.0,female,No car,summer,5.39,transit
+612,2.87,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,177.49,bike
+1824,1.69,Same Shore,different shores,not close,8.0,13.0,female,No car,summer,61.32,bike
+1874,1.39,Same Shore,same shore,close,9.0,15.0,female,No car,summer,151.05,bike
+1360,1.39,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,16.07,bike
+845,2.67,non Same Shore,same shore,not close,8.0,14.0,male,No car,summer,149.3,transit
+1688,1.88,non Same Shore,same shore,not close,10.0,15.0,male,No car,summer,51.41,bike
+655,2.66,non Same Shore,same shore,not close,11.0,16.0,male,No car,summer,623.62,bike
+952,1.88,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,329.43,bike
+1000,2.8,non Same Shore,same shore,not close,9.0,14.0,female,No car,summer,110.19,transit
+1215,1.08,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,21.64,walk
+1791,1.49,Same Shore,same shore,close,8.0,13.0,male,No car,summer,166.63,bike
+1586,2.89,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,62.35,bike
+381,1.17,non Same Shore,same shore,not close,8.0,14.0,female,No car,summer,158.86,walk
+657,1.71,non Same Shore,same shore,not close,12.0,18.0,male,No car,summer,352.9,bike
+1259,2.99,non Same Shore,same shore,not close,5.0,11.0,female,No car,summer,76.27,bike
+942,2.75,non Same Shore,same shore,not close,9.0,14.0,female,A car,summer,488.4,bike
+430,1.52,non Same Shore,same shore,not close,7.0,12.0,female,No car,summer,186.94,bike
+1284,1.94,non Same Shore,same shore,not close,12.0,19.0,male,No car,summer,4.53,bike
+1644,0.96,non Same Shore,same shore,not close,9.0,14.0,female,No car,summer,41.37,bike
+548,0.65,non Same Shore,same shore,not close,10.0,16.0,female,No car,summer,1.34,bike
+185,1.02,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,121.49,walk
+1876,0.26,Same Shore,same shore,close,9.0,16.0,male,No car,summer,91.25,walk
+96,1.2,non Same Shore,same shore,not close,11.0,17.0,female,No car,summer,204.07,bike
+205,2.49,non Same Shore,same shore,not close,6.0,12.0,female,No car,summer,448.63,transit
+1396,1.4,non Same Shore,same shore,not close,11.0,16.0,female,No car,summer,10.16,bike
+51,1.7,non Same Shore,same shore,not close,6.0,12.0,female,No car,summer,261.14,transit
+119,2.62,non Same Shore,same shore,not close,10.0,15.0,female,No car,summer,199.81,transit
+351,0.74,non Same Shore,same shore,not close,11.0,17.0,male,No car,summer,32.99,walk
+83,2.92,non Same Shore,different shores,close,7.0,14.0,male,No car,summer,66.6,transit
+558,2.88,non Same Shore,same shore,not close,9.0,15.0,female,No car,summer,76.52,bike
+1559,0.37,non Same Shore,same shore,not close,12.0,18.0,male,No car,summer,159.14,walk
+1139,0.89,non Same Shore,same shore,not close,6.0,12.0,female,No car,summer,50.26,walk
+576,1.78,non Same Shore,same shore,not close,12.0,18.0,female,No car,summer,416.27,bike
+1702,2.03,non Same Shore,same shore,not close,9.0,15.0,female,No car,summer,56.75,bike
+632,2.08,non Same Shore,same shore,not close,10.0,16.0,female,No car,summer,342.56,transit
+1771,1.7,non Same Shore,different shores,close,7.0,13.0,female,No car,summer,1076.64,transit
+1120,0.77,non Same Shore,same shore,not close,12.0,19.0,female,No car,summer,64.36,walk
+1208,0.95,non Same Shore,same shore,not close,5.0,11.0,female,No car,summer,13.03,walk
+676,2.5,non Same Shore,same shore,not close,10.0,15.0,male,No car,summer,146.66,bike
+1176,2.27,non Same Shore,same shore,not close,7.0,13.0,female,No car,summer,213.48,transit
+1428,0.5,non Same Shore,same shore,not close,12.0,17.0,male,No car,summer,31.87,walk
+913,1.68,non Same Shore,same shore,not close,8.0,14.0,male,No car,summer,493.39,bike
+1099,0.77,non Same Shore,same shore,not close,9.0,15.0,female,No car,summer,64.12,walk
